@@ -2,10 +2,10 @@
     "chain_name": "warden",
     "registry_name": "warden",
     "api": [
-        {"provider": "CryptoNodeID", "address": "https://warden-testnet-api.cryptonode.id"}
+        {"provider": "nodem0rt", "address": "https://warden-testnet-api.nodem0rt.xyz"}
     ], 
     "rpc": [
-        {"provider": "CryptoNodeID", "address": "https://warden-testnet-rpc.cryptonode.id"}
+        {"provider": "nodem0rt", "address": "https://warden-testnet-rpc.nodem0rt.xyz"}
     ],
     "sdk_version": "0.47.4",
     "coin_type": "118",
