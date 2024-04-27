@@ -2,10 +2,10 @@
     "chain_name": "0g-evmos",
     "registry_name": "0g-evmos",
     "api": [
-        {"provider": "nodem0rt", "address": "https://0gevmos-testnet-api.nodem0rt.xyz"}
+        {"provider": "nodem0rt", "address": "https://0g-testnet-api.nodem0rt.xyz"}
     ],
     "rpc": [
-        {"provider": "nodem0rt", "address": "https://0gevmos-testnet-rpc.nodem0rt.xyz"}
+        {"provider": "nodem0rt", "address": "https://0g-testnet-rpc.nodem0rt.xyz"}
     ],
     "sdk_version": "0.47.6",
     "keplr_features": ["eth-address-gen", "eth-key-sign"],
