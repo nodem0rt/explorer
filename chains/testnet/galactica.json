@@ -1,0 +1,23 @@
+{
+    "chain_name": "galactica",
+    "registry_name": "galactica",
+    "api": [
+        {"provider": "nodem0rt", "address": "https://galactica-testnet-api.nodem0rt.xyz"}
+    ],
+    "rpc": [
+        {"provider": "nodem0rt", "address": "https://galactica-testnet-rpc.nodem0rt.xyz"}
+    ],
+    "sdk_version": "0.47.6",
+    "keplr_features": ["eth-address-gen", "eth-key-sign"],
+    "coin_type": "60",
+    "min_tx_fee": "10000000000000000",
+    "addr_prefix": "gala",
+    "logo": "/logos/galactica.png",
+    "assets": [{
+        "base": "agnet",
+        "symbol": "GNET",
+        "exponent": "18",
+        "coingecko_id": "", 
+        "logo": "/logos/galactica.png"
+    }]
+}
